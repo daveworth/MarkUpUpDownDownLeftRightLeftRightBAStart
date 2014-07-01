@@ -1,0 +1,4 @@
+MarkdownUpUpDownDownLeftRightLeftRightBAStart
+=============================================
+
+Konami markdown
